@@ -149,12 +149,8 @@ Protected routes need `Authorization: Bearer <token>`.
 - Employees can access only their own claims and receipts
 - Passwords are hashed with bcrypt; inactive accounts are blocked
 
-## Testing
-
-No automated tests yet. See [TESTING.md](TESTING.md) for the manual checklist.
-
 ## Author
 
 Azfaar Khan · [github.com/geekazfaar](https://github.com/geekazfaar)
 
-License: ISC <!-- VERIFY: add a LICENSE file if you want this to be official -->
+
